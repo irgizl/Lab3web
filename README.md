@@ -6,7 +6,7 @@
 
 ### **hasil file koneksi.php**
 
-<img src="./results/koneksi.png" style="margin: auto; width:400px;"><br><br>
+<img src="./results/konekasi.png" style="margin: auto; width:400px;"><br><br>
 
 ### **Penjelasan**
 >Hasil diatas merupakan tampilan yaitu menghubungkan Table PHP dengan MYSQL Database PHPMYADMIN
